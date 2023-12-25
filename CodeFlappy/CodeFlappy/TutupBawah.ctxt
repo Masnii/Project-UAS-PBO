@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TutupBawah
+comment1.params=latar
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=a
+comment2.target=void\ fadein(int)
+comment3.params=a
+comment3.target=void\ fadeout(int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
